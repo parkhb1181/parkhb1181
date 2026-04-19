@@ -9,7 +9,6 @@
 <br />
 
 <img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="250px" height="250px" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover; margin-bottom: 20px;" />
-file:///C:/Users/%EB%B0%95%ED%98%B8%EB%B9%88/Downloads/edited-photo.png
 
 <br />
 
