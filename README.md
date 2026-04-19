@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&text=👋%20Hello,%20I'm%20HO%20BIN!&animation=fadeIn&fontColor=000000&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=👋%20Hello,%20I'm%20HO%20BIN!&animation=fadeIn&fontColor=ffffff&fontSize=40" />
 
 <br />
 
