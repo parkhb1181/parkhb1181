@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&text=hobin&animation=&fontColor=ffffff&fontSize=50" />
-</div>
 
 # 👋 Hello, I'm HO BIN!
 
@@ -42,6 +39,5 @@
 ---
 
 ## 📫 Contact
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{HOBIN})
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:parkhb1181@gmail.com)](mailto:parkhb1181@gmail.com)
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/{hobin}?theme=light&posts=3)
