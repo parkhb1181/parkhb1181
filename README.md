@@ -4,7 +4,7 @@
 
 ### "비즈니스를 기술로 실현하는 CEO를 꿈꿉니다."
 
-<img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="250px" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;" />
+<img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="250px" height="250px" style="border-radius: 50%; box-shadow: 0 10px 20px rgba(0,0,0,0.15); object-fit: cover; margin-bottom: 20px;" />
 
 <br />
 
@@ -37,8 +37,8 @@
 
 ## 📊 My Goals (This Month)
 
-> 🕵️‍♂️ 잘못된 코드 다 찝어내기 <br />
-> 💡 개인 프로젝트 아이디어 구상하기
+> ✅ 🕵️‍♂️ 잘못된 코드 다 찝어내기 <br />
+> ✅ 💡 개인 프로젝트 아이디어 구상하기
 
 <br />
 
