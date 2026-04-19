@@ -4,7 +4,7 @@
 
 > **"비즈니스를 기술로 실현하는 CEO를 꿈꿉니다."**
 
-<img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="300px" />
+<img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="300px" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 
 ---
 
