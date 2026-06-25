@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&text=Hello,%20I'm%20HOBIN&animation=fadeIn&fontColor=ffffff&fontSize=42" />
 
-<img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="200" height="200" alt="HOBIN" />
+<img src="https://github.com/user-attachments/assets/b5428403-3812-4cd5-bade-35719e351a81" width="200" height="150" alt="HOBIN" />
 
 ### 제품을 직접 기획·개발·배포하고, 유저 행동 데이터로 검증합니다.
 
@@ -40,7 +40,7 @@
 📊 행동 로그(Clarity · Vercel Analytics)에서 문제를 정의하고 우선순위를 결정합니다.<br/>
 ✂️ 무엇을 만들지보다 **무엇을 안 만들지** 먼저 정해 MVP로 좁혀 배포합니다.<br/>
 🌱 지금 파고드는 것: **Spring Boot 백엔드 심화 · Next.js(App Router) Server Actions / Streaming**<br/>
-🧭 지향점: 기술 메커니즘을 직접 이해하고 제품으로 실현하는 **프로덕트 엔지니어**
+🧭 지향점: 기술 메커니즘을 직접 이해하고 제품으로 실현하는 **창업가형 엔지니어**
 
 </div>
 
