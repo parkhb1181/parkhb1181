@@ -25,7 +25,7 @@
 
 | 프로젝트 | 한 줄 소개 | 링크 |
 | :---: | :---: | :---: |
-| **GRANDSLAM** | LoL 올타임 e스포츠 드래프트 시뮬레이터<br/>3일 스프린트 배포 · 오가닉 유입 600+ | [Live](https://grandslamlol.vercel.app) · [회고](https://velog.io/@hobin/project2) |
+| **GRANDSLAM** | LoL 올타임 e스포츠 드래프트 시뮬레이터<br/>3일 스프린트 배포 · 오가닉 유입 700+ | [Live](https://grandslamlol.vercel.app) · [회고](https://velog.io/@hobin/project2) |
 | **ADsP 합격 패턴** | 출제 패턴만 남긴 자격증 학습 플랫폼<br/>복귀 세션 ~80% · 운영 중 | [Live](https://adsp-app.vercel.app) · [회고](https://velog.io/@hobin/project1) |
 
 </div>
