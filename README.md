@@ -15,14 +15,14 @@
 
 <br/>
 
-**[ADsP 합격 패턴](https://adsp-app.vercel.app)** — 자격증 학습 플랫폼<br/>
-출제 빈도가 높은 부분만 남겨 최소 학습으로 합격선을 넘게 하는 서비스. Web + TWA. [회고](https://velog.io/@hobin/project1)<br/>
+**[ADsP 합격 패턴](https://adsp-app.vercel.app)**  [회고](https://velog.io/@hobin/project1)— 자격증 학습 플랫폼<br/>
+출제 빈도가 높은 부분만 남겨 최소 학습으로 합격선을 넘게 하는 서비스. Web + TWA.<br/>
 방문자 4,345 · 재방문 세션 52% · 유료 기능 ₩4,900
 
 <br/>
 
-**[GRANDSLAM](https://grandslamlol.vercel.app)** — e스포츠 올타임 드래프트 시뮬레이터<br/>
-3일 스프린트로 배포해 유입 가설을 검증한 뒤 종료했습니다. [회고](https://velog.io/@hobin/project2)<br/>
+**[GRANDSLAM](https://grandslamlol.vercel.app)** [회고](https://velog.io/@hobin/project2) — e스포츠 올타임 드래프트 시뮬레이터<br/>
+3일 스프린트로 배포해 유입 가설을 검증한 뒤 종료했습니다. <br/>
 방문자 ~1,000 · 가설 실패, 원인 분리 완료
 
 <br/>
