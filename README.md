@@ -9,19 +9,19 @@
 
 ## Shipped
 
-**[FC Detox](https://fcdetox.com)** — FC 온라인 확률형 상품 시뮬레이터 · 2026.07~ 운영 중 · [코드 발췌](https://github.com/parkhb1181/fc-detox-showcase)<br/>
+**[FC Detox](https://fcdetox.com)** - FC 온라인 확률형 상품 시뮬레이터 · 2026.07~ 운영 중 · [코드 발췌](https://github.com/parkhb1181/fc-detox-showcase)<br/>
 구매 전에 결과를 미리 돌려보는 웹 서비스. 기획·개발·운영 혼자.<br/>
 방문자 52,324 · 재방문율 33% (GA4) · 참여 시간 12분 · 이탈률 18% · 광고비 0원
 
-**[덕모임](https://duckmoim.com)** — K-pop 오프라인 이벤트 지도 · 2026.08~09 · 4인 팀, 프론트엔드·기획 · [frontend](https://github.com/parkhb1181/deokjil-map)<br/>
+**[덕모임](https://duckmoim.com)** - K-pop 오프라인 이벤트 지도 · 2026.08~09 · 4인 팀, 프론트엔드·기획 · [frontend](https://github.com/parkhb1181/deokjil-map)<br/>
 주제를 회의로 정하지 않고 PoC 3종을 배포해 비교. 지도안만 방문 5배·체류 2배로 확정.<br/>
 1차 로그인·행사 조회·모집글·신고·백오피스 → 2차 채팅(SSE)·알림까지 배포
 
-**[ADsP 합격 패턴](https://adsp-app.vercel.app)** — 자격증 학습 웹앱 · 2026.05~ 운영 중 · [코드 발췌](https://github.com/parkhb1181/adsp-showcase)<br/>
+**[ADsP 합격 패턴](https://adsp-app.vercel.app)** - 자격증 학습 웹앱 · 2026.05~ 운영 중 · [코드 발췌](https://github.com/parkhb1181/adsp-showcase)<br/>
 출제 빈도 높은 부분만 남겨 최소 학습으로 합격선을 넘게 하는 서비스. 결제를 만들기 전에 버튼만 띄워 클릭률부터 봤습니다.<br/>
 방문자 5,195 · 검색 유입 53% · 'adsp 기출' 클릭 1위
 
-**[GRANDSLAM](https://grandslamlol.vercel.app)** — LoL 올타임 드래프트 시뮬레이터 · 2026.06 종료 · [repo](https://github.com/parkhb1181/LOL)<br/>
+**[GRANDSLAM](https://grandslamlol.vercel.app)** - LoL 올타임 드래프트 시뮬레이터 · 2026.06 종료 · [repo](https://github.com/parkhb1181/LOL)<br/>
 3일 스프린트로 배포해 유입 가설을 검증하고 접었습니다. 공유 버튼 대신 캡처로 퍼진다는 걸 여기서 배웠습니다.<br/>
 방문자 1,137 · 재방문 세션 17%
 
