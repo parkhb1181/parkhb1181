@@ -13,7 +13,7 @@
 구매 전에 결과를 미리 돌려보는 웹 서비스. 기획·개발·운영 혼자.<br/>
 방문자 52,324 · 재방문율 33% (GA4) · 참여 시간 12분 · 이탈률 18% · 광고비 0원
 
-**[덕모임](https://duckmoim.com)** - K-pop 오프라인 이벤트 지도 · 2026.08~09 · 4인 팀, 프론트엔드·기획 · [frontend](https://github.com/parkhb1181/deokjil-map)<br/>
+**[덕모임](https://duckmoim.com)** - K-pop 오프라인 이벤트 지도 · 2026.08~09 · 4인 팀, 프론트엔드·기획 · [팀 레포](https://github.com/potenup-final/duckmoim-backend)<br/>
 주제를 회의로 정하지 않고 PoC 3종을 배포해 비교. 지도안만 방문 5배·체류 2배로 확정.<br/>
 1차 로그인·행사 조회·모집글·신고·백오피스 → 2차 채팅(SSE)·알림까지 배포
 
