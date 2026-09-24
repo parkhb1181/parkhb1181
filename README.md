@@ -1,7 +1,7 @@
 # 박호빈 (HOBIN)
 
 기획하고, 프로토타입으로 먼저 검증합니다.<br/>
-세 개 만들어 배포했고 그중 둘은 지금도 돌아갑니다. 가장 큰 건 9월 하루 평균 1,040명, 광고비는 0원입니다.
+세 개 만들어 배포했고 그중 둘은 지금도 돌아갑니다. 가장 큰 건 9월 하루 평균 1,040명입니다.
 
 [포트폴리오 PDF](https://drive.google.com/file/d/14xj-RtopAwvstIkpYcmLiTPdMxYEfAOT/view) · [노션 상세](https://little-hearing-108.notion.site/Product-Portfolio-3cbcc7dc54d881fbb735fa86a2034399) · [Velog](https://velog.io/@hobin/posts) · parkhb1181@gmail.com
 
@@ -11,7 +11,7 @@
 
 **[FC Detox](https://fcdetox.com)** - FC 온라인 뽑기 · 강화 시뮬레이터 · 2026.07~ 운영 중 · [코드 발췌](https://github.com/parkhb1181/fc-detox-showcase)<br/>
 구매 전에 결과를 미리 돌려보는 웹 서비스. 기획·개발·운영 혼자.<br/>
-누적 방문 61,169회 · 재방문율 34% · 참여 시간 12분 · 사용자가 올린 소개글 조회 22,465회 · 광고비 0원
+누적 방문 61,169회 · 재방문율 34% · 참여 시간 12분 · 사용자가 올린 소개글 조회 22,465회
 
 **[덕모임](https://duckmoim.com)** - K-pop 오프라인 이벤트 동행 · 2026.08~ 개발 중 · KDT 파이널 프로젝트, 4인 팀 PM·프론트엔드 · [팀 레포](https://github.com/potenup-final/duckmoim-backend)<br/>
 주제를 회의로 정하지 않고 후보 3개를 X에 같은 방식으로 올려 비교. 생일카페 정보안이 방문 5배 · 체류 2배로 확정.<br/>
