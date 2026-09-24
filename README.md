@@ -43,4 +43,4 @@ TypeScript · Next.js (App Router) · React · Tailwind CSS<br/>
 Java · Spring Boot · MySQL · Supabase(Postgres) · SQL(Metabase)<br/>
 Vercel · Cloudflare R2 · GitHub Actions · GA4 · Microsoft Clarity · Search Console
 
-KDT 백엔드 부트캠프 (원티드 포텐업, 2026.04~09)
+KDT 백엔드 부트캠프 (원티드 포텐업, 2026.03~09)
